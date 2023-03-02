@@ -18,7 +18,7 @@ function init() {
 
 
 function megjelenit(lista){
-    for(let i = 0; i <list,length; i++){
+    for(let i = 0; i <lista.length; i++){
         const div = document.createElement("div");
         const h = document.createElement("h3");
         const p = document.createElement("P");
